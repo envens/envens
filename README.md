@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @envens
-- 👀 I’m interested in ...Technology. 
-- 🌱 I’m currently learning ...IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Email us - support@envens.cf
+<list>
+<li>- 👋 Hi, I’m @envens</li>
+<li>- 👀 I’m interested in ...Technology. </li>
+<li>- 🌱 I’m currently learning ...IT</li>
+<li>- 💞️ I’m looking to collaborate on ...</li>
+<li>- 📫 How to reach me ...Email us - support@envens.cf</li>
+</list>
